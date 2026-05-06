@@ -6,10 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "messmp.mcsh.io",
+    "ip": "191.96.231.19:12638",
     "port": 12638,
     "version": "1.21.11",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
