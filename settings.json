@@ -1,18 +1,18 @@
 {
-  "name": "AFK Bot",
+  "name": "server_check",
   "bot-account": {
-    "username": "server_check_bot",
+    "username": "server_check_b",
     "password": "check123",
     "type": "offline"
   },
   "server": {
-    "ip": "191.96.231.19",
-    "port": 12638,
+    "ip": "cosmicsmp-official.aternos.me",
+    "port": 11044,
     "version": "1.21.11",
     "try-creative": true
   },
   "position": {
-    "enabled": false,
+    "enabled": true,
     "x": 0,
     "y": 100,
     "z": 0
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        ".",
+        "",
         "",
         ""
       ]
